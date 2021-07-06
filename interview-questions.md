@@ -9,7 +9,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: MVC stand for model, view, and control.  This pattern is used to divide a program into 3 parts.
 
-  Researched answer:  MVC is a predictable softweare design pattern that can be used across many frameworks with many programming languages.  Used to degisn web apps and mobile apps. Model stores and manages data.  View is a visual representation of the data.  Controller connects thte model and view.
+  Researched answer:  MVC is a predictable software design pattern that can be used across many frameworks with many programming languages.  Used to design web apps and mobile apps. Model stores and manages data.  View is a visual representation of the data.  Controller connects the model and view.
 
 
 
@@ -25,7 +25,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: Object-relational mapping allows for data to searched for and organized based on objects.
 
-  Researched answer:  ORM lets one query and manipulate date from a databse using an object oriented program.  
+  Researched answer:  ORM lets one query and manipulate date from a database using an object oriented program.  
 
 
 
@@ -41,7 +41,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: Primary keys are used to construct and identify classes.
 
-  Researched answer: Primary key is a special realtional database column designated to uniquely identify each table record.  A primary key uniquely identifies each row of a table. Its main featrues are a unique value for each row of data, it cannot contain null values, and each row must have a promary value key
+  Researched answer: Primary key is a special relational database column designated to uniquely identify each table record.  A primary key uniquely identifies each row of a table. Its main features are a unique value for each row of data, it cannot contain null values, and each row must have a primary value key
 
 
 
@@ -50,7 +50,7 @@ Research and define the following terms to the best of your ability.
 
 1. RESTful routes: For mapping HTTP routes and CRUD functionalities
 
-2. JSON: Stands for javascript object notation.  USed for transmitting data in web applications.
+2. JSON: Stands for javascript object notation.  Used for transmitting data in web applications.
 
 3. Model validations: Used to ensure that only valid data is saved into the database.
 
