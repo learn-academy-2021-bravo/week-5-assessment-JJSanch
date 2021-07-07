@@ -7,53 +7,52 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. Rails follows an MVC pattern. What does that mean?
 
-  Your answer: MVC stand for model, view, and control.  This pattern is used to divide a program into 3 parts.
+  Your answer:  MVS stand for model, view and controller. 
 
-  Researched answer:  MVC is a predictable softweare design pattern that can be used across many frameworks with many programming languages.  Used to degisn web apps and mobile apps. Model stores and manages data.  View is a visual representation of the data.  Controller connects thte model and view.
-
-
+  Researched answer:  MVC (Model, view, controller) pattern is followed by rails in order to divide the responsibilities, while still remaining interconnected.  This provides default structures for a database, web service and web pages.
+  
 
 2. What is a relational database? Are there other kinds of databases?
 
-  Your answer:  A relational database holds information that can be organized in different ways depending on the command given
+  Your answer: A relation databse is a set of information that can be connected to other sets of information based on a set of commands.
 
-  Researched answer: Relational databases hold information in rows and columns.  Can have many tables that have relationships to each other.
+  Researched answer: Relational databases store information in tables made of rows and columns.  A table being one set of rows and columns and the manner in which said rows and columns are named is called a schema.
 
 
 
 3. What is object-relational mapping?
 
-  Your answer: Object-relational mapping allows for data to searched for and organized based on objects.
+  Your answer: Mapping a databse using objects.
 
-  Researched answer:  ORM lets one query and manipulate date from a databse using an object oriented program.  
+  Researched answer: Object-relational mapping, also know as ORM, is a code library that allows for the transfer of data that is stored in relational databases into objects for use in code.
 
 
 
 4. What is a gem?
 
-  Your answer: A gem is used by the ruby language
+  Your answer: A gem is used by the ruby language that contains code templates that can be installed using version control.
 
-  Researched answer: A gem is an open source library that contains ruby code and are packaged with extra data.  Gems allows programmers to use the code contained within the gem in their own program.  Acts as a plugin or extension for the programming language
+  Researched answer:  A gem is a software package that can be installed to be used on a system.  Gems are used to extend or modify functionality in Ruby applications.  This functionality is reusable and can be used by others as well.
 
 
 
 5. What are primary keys? Why are they important?
 
-  Your answer: Primary keys are used to construct and identify classes.
+  Your answer:  Primary keys are used to identify certain sectons of relationa databases.
 
-  Researched answer: Primary key is a special realtional database column designated to uniquely identify each table record.  A primary key uniquely identifies each row of a table. Its main featrues are a unique value for each row of data, it cannot contain null values, and each row must have a promary value key
+  Researched answer: The primary key, also known as "id", and that key is unqiue to that row of the database.  Primary keys keep databses organized and easily accessible. 
 
 
 
 ## Looking Ahead: Terms for Next Week
 Research and define the following terms to the best of your ability.
 
-1. RESTful routes: For mapping HTTP routes and CRUD functionalities
+1. RESTful routes: REST strans for representational state transfer.
 
-2. JSON: Stands for javascript object notation.  USed for transmitting data in web applications.
+2. JSON: Stands for Javascript Object Notation.  Used to send data from a server to a webpage.  Identical to the code for creating JS objects.
 
-3. Model validations: Used to ensure that only valid data is saved into the database.
+3. Model validations:  Model validations are a way to ensure that only valid data is saved into a database.  Validations cannot be bypassed by end users.
 
-4. Strong params: Feature of rails that prevents assigning request parameters to objects unless they have been explicitly permitted.
+4. Strong params:  A featrue of rails that prevents assigning rtequest paramters to objects, unless they have been directly permitted.
 
-5. API: Stand for application programming interface.  Allows multiple applications to talk to each other
+5. API:  API's contain raw data (JSON) meant to be consumed by other websites
