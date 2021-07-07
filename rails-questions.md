@@ -31,7 +31,7 @@ An asterisk "*" would return all items from a table.
 
 6. What is the command to generate a migration file?
 
-    rails:db migrate
+    rails:db migrate 
 
 
 7. What is the naming convention for generating a Rails model? What is the naming convention for the table that is generated with this command?
@@ -54,4 +54,4 @@ An asterisk "*" would return all items from a table.
 
 10. What is the Rails console command to see all the content in a particular table?
 
-    The command would be ModelName.all
+    .all
